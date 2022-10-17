@@ -1,0 +1,2 @@
+C:\Sparkwithscalaudemy\SparkScalaCourse\SparkScalaCourse\out\artifacts\SparkCourse\SparkCourse.jar
+C:/Sparkwithscalaudemy/SparkScalaCourse/SparkScalaCourse/out/artifacts/SparkCourse/SparkCourse.jar
